@@ -10,20 +10,11 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
-# **Version 1.4**
-
-#### What's New
-- Integrate with billing system.
-
-#### Bug Fixes
-- Fix some issues on v1.3.
-
-<br>
-
 # **Version 1.3**
 
 #### What's New
 - Improve UX.
+- Integrate with billing system.
 
 #### Bug Fixes
 - Fix some issues on v1.2.
